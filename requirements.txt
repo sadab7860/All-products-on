@@ -1,0 +1,13 @@
+
+
+flask
+flask-cors
+torch
+torchvision
+transformers
+pillow
+requests
+beautifulsoup4
+Flask
+gunicorn
+...
